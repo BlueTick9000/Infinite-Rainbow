@@ -38,6 +38,7 @@ button{
   font-size: 14px;
   height: 52px;
   width: 121px;
+  border: 0;
   border-radius: 24px solid black;
   margin-left: auto;
   margin-right: auto;
